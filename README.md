@@ -14,6 +14,7 @@ Here is the basic structure of my code:
 World is devided into Segments, segments into Chunks and finally chunks into Voxels
 
 World:  
+
     Holds world data such as Segments, trees(not implemented) and other objects that belog to it.
     It handles chunk generation around the player, but Chunks implement their own Generation.
     It also implements BuidShip() method and ConstructionSiteRoutine()
@@ -21,23 +22,29 @@ World:
     World should have been divided into its Model and Controller as the Player was.
 
 Segment:
+
     Holds voxel data because of the limit on the size of the Matrix Array in Unity.
     It generates and updates chunks using NoiseGeneration script
     
 Chunk: 
+
     Chunks implement basic operations on small number of voxels [16,16,16]
     This is needed for fast placement and destruction of blocks.
     
 Voxel:
+
     Holds basic data of the single Voxel such as its position, its health and what block it actually is.
     
 Player:
+
     Player Model
     
 PlayerController:
+
     Implemets all player functionalities.
     
 Ship:
+
     Stores ship data in voxels
     Implemets ship physics
     
