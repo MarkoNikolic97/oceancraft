@@ -14,7 +14,7 @@ https://youtu.be/kRol1d4MjmY
 Again, I apologize for this incompleteness, I set out to do something which I had neither the time nor resources for. As I said, all of my projects were for fun and unfortunately most of them are lost. This is one of the rare ones I saved, and probably most complicated.
 
 Here is the basic structure of my code:
-World is devided into Segments, segments into Chunks and finally chunks into Voxels
+World is divided into Segments, segments into Chunks and finally chunks into Voxels
 
 World:  
 
