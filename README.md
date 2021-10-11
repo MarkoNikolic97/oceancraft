@@ -46,6 +46,6 @@ The idea actually was to make the parts of the whole world a static size and tha
 This would also make possible the "looping" of Worlds as to create the illusion of a spherical planet.    
 
 Thank you very much for your time and this amazing opportunity.
-I am very exited to hear from you.
+I am very exited to hear from you,
 Marko Nikolic
 
