@@ -8,6 +8,9 @@ This is a year old project that I made in spare time that I could find between c
 With all Debugging still in code the game is buggy to say the least, and as I said it is unoptimized as well. The User Interface is barebones and implemented to make testing possible. As you will see, there are a lot of code and classes that are there but still waiting for implementation.
 
 I have made a short video showcasing the most important and implemented functions of the project in an attempt to save your valuable time. Of course if you do decide to explore the project in Unity I hope the video will also help you to make sense of this raw and unfinished project.
+
+https://youtu.be/kRol1d4MjmY
+
 Again, I apologize for this incompleteness, I set out to do something which I had neither the time nor resources for. As I said, all of my projects were for fun and unfortunately most of them are lost. This is one of the rare ones I saved, and probably most complicated.
 
 Here is the basic structure of my code:
