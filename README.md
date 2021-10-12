@@ -18,7 +18,7 @@ World is divided into Segments, segments into Chunks and finally chunks into Vox
 
 World:  
 
-    Holds world data such as Segments, trees(not implemented) and other objects that belog to it.
+    Holds world data such as Segments, trees(not implemented) and other objects that belong to it.
     It handles chunk generation around the player, but Chunks implement their own Generation.
     It also implements BuidShip() method and ConstructionSiteRoutine()
     Holds the NoiseGeneration script with its settings.
@@ -49,7 +49,7 @@ PlayerController:
 Ship:
 
     Stores ship data in voxels
-    Implemets ship physics
+    Implements ship physics
     
     
 The idea actually was to make the parts of the whole world a static size and that is why the World has bounderies. As you cross them loading screen should appear for the next part of the planet. This makes it possible for example, to have World such as Deep_Ocean which would be immensely deep but smaller in horizontal dimensions.
