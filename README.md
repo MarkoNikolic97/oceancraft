@@ -4,8 +4,8 @@ Project example for showcase
 
 Hello,
 
-This is a year old project that I made in spare time that I could find between classes and studying. It was made for fun without taking into account that it would be seen by anyone else, hence it is very unstructured as I was mostly experimenting and playing around with Unity. It is very unoptimized and I apologize for the unreadable and probably indecipherable code. If you are interested, of course, I could add comments and delete the unnecessary code such as Debug.Logs.
-With all Debugging still in code the game is buggy to say the least, and as I said it is unoptimized as well. The User Interface is barebones and implemented to make testing possible. As you will see, there are a lot of code and classes that are there but still waiting for implementation.
+This is an old project that I made in spare time that I found between classes and studying. It was made for fun without taking into account that it would be seen by anyone else, hence it is very unstructured as I was mostly experimenting and playing around with Unity. It is very unoptimized and I apologize for the unreadable and probably indecipherable code. If you are interested, of course, I could add comments and delete the unnecessary code such as Debug.Logs.
+With all Debugging still in code the game is buggy to say the least, and as I said it is unoptimized as well. The User Interface is barebones and implemented to make testing possible. As you will see, there are a lot of classes that are there but still waiting for implementation.
 
 I have made a short video showcasing the most important and implemented functions of the project in an attempt to save your valuable time. Of course if you do decide to explore the project in Unity I hope the video will also help you to make sense of this raw and unfinished project.
 
@@ -53,7 +53,7 @@ Ship:
     
     
 The idea actually was to make the parts of the whole world a static size and that is why the World has bounderies. As you cross them loading screen should appear for the next part of the planet. This makes it possible for example, to have World such as Deep_Ocean which would be immensely deep but smaller in horizontal dimensions.
-This would also make possible the "looping" of Worlds as to create the illusion of a spherical planet.    
+This would also make possible for the "looping" of Worlds as to create the illusion of a spherical planet.    
 
 Thank you very much for your time and this amazing opportunity.
 I am very exited to hear from you,
